@@ -15,6 +15,10 @@ Experienced PLC/SCADA programmer turned software engineering student. After 10 y
 - linux
 - neovim
 
+---
+## Contact
+Email: regodin@proton.me
+
 
 
 <!--
