@@ -1,4 +1,21 @@
-### Hi there 👋
+## About me
+Experienced PLC/SCADA programmer turned software engineering student. After 10 years in the trade, and a newly found passion for software and programming, I decided to further my education and become a software engineer.
+
+### My current interests
+- Getting more experience with Rust
+- Graphics programming
+- High performance code
+
+### Programming languages, tools, and tech
+- Rust
+- Java
+- Python
+- C/C++
+- docker
+- linux
+- neovim
+
+
 
 <!--
 **Remi-Godin/Remi-Godin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
