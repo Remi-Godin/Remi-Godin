@@ -2,15 +2,16 @@
 Experienced PLC/SCADA programmer turned software engineering student. After 10 years in the trade, and a newly found passion for software and programming, I decided to further my education and become a software engineer.
 
 ### My current interests
-- Getting more experience with Rust
-- Graphics programming
 - High performance code
+- Graphics programming
+- Learning backend development
 
 ### Programming languages, tools, and tech
 - Rust
 - Java
 - Python
 - C/C++
+- Go
 - docker
 - linux
 - neovim
