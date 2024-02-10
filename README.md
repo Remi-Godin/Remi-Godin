@@ -3,6 +3,7 @@ Experienced PLC/SCADA programmer turned software engineering student. After 10 y
 
 ### My current interests
 - High performance code
+- Learning embedded software development
 - Graphics programming
 - Learning backend development
 
