@@ -5,22 +5,7 @@ Experienced PLC/SCADA programmer turned software engineering student. After 10 y
 - High performance code
 - Learning backend development
 - Learning embedded software development
-- Graphics programming
-- Game development
 
-### Programming languages, tools, and tech
-- Rust
-- Java
-- Python
-- C/C++
-- Go
-- docker
-- linux
-- neovim
-
----
-## Contact
-Email: regodin@proton.me
 
 
 
