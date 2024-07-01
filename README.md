@@ -6,9 +6,12 @@ Experienced PLC/SCADA programmer turned software engineering student. After 10 y
 - Learning backend development
 - Learning embedded software development
 
+## Resume
+### [Download resume](https://github.com/Remi-Godin/Remi-Godin/blob/main/RemiGodin_Resume.pdf)
 
+![resume](https://github.com/Remi-Godin/Remi-Godin/blob/main/RemiGodin_Resume.png)
 
-
+### [Download resume](https://github.com/Remi-Godin/Remi-Godin/blob/main/RemiGodin_Resume.pdf)
 <!--
 **Remi-Godin/Remi-Godin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
