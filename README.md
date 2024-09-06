@@ -1,5 +1,5 @@
 ## About me
-Hihgly motivated software engineering students with a passion for tackling tough challenges. With 10 years of experience in the
+Highly motivated software engineering student with a passion for tackling tough challenges. With 10 years of experience in the
 industrial automation field, I bring with me a strong focus on safety and robustness, complemented by proven project manage-
 ment and leadership skills.
 
