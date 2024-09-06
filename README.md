@@ -9,7 +9,7 @@ Strongly focused on (type) safety and robustness w/ proven project management & 
 - Embedded development
 
 ## Contact and Socials
-e-mail: regodin@proton.me
+e-mail: regodin@proton.me \
 Linkedin: https://www.linkedin.com/in/remi-godin-179719282/
 
 <!--
