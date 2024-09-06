@@ -1,15 +1,15 @@
 ## About me
-Highly motivated software engineering student with a passion for tackling tough challenges. With 10 years of experience in the
-industrial automation field, I bring with me a strong focus on safety and robustness, complemented by proven project manage-
-ment and leadership skills.
+Highly motivated software engineering student with a passion for tackling tough challenges.
+Strongly focused on (type) safety and robustness w/ proven project management & leadership skills.
+10 years of experience in the industrial automation field. 😎
 
 ### My current interests
-- High performance code
-- Learning backend development
-- Learning embedded software development
+- Performant code
+- Backend development
+- Embedded development
 
 ## Contact and Socials
-e-mail: regodin@proton.me\
+e-mail: regodin@proton.me
 Linkedin: https://www.linkedin.com/in/remi-godin-179719282/
 
 <!--
