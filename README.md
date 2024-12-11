@@ -1,12 +1,5 @@
 ## About me
-Highly motivated software engineering student with a passion for tackling tough challenges.
-Strongly focused on (type) safety and robustness w/ proven project management & leadership skills.
-10 years of experience in the industrial automation field. 😎
-
-### My current interests
-- Performant code
-- Backend development
-- Embedded development
+Automation and controls specialist with 10 years of experience, currently expanding my skill set by completing a software engineering degree. 
 
 ## Contact and Socials
 e-mail: regodin@proton.me \
